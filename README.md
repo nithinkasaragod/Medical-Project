@@ -91,12 +91,7 @@ Safety overrides always take priority over control output.
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is **for academic and demonstration purposes only**.  
-It is **not intended for clinical or medical use**.
-
----
 
 ## 👥 Team
 
